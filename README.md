@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <div align="center">
-   <img src=".././mizo.jpg" width=100%>
+   <img src="./mizo.jpg" width=100%>
 </div>
 
 <h1 align='center'>
