@@ -1,15 +1,53 @@
 
 <h1 align='center'>
-  Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><br>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><br>
 </h1>
 
 <p align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=FCAI+Sadat+City+University+Student;Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=FCAI+Sadat+City+University+Student;Full+Stack+Developer;Learning+AI+%26+Data+Science;Always+Building+Projects;Open+to+Collaboration" alt="Typing SVG" />
+  </a>
 </p>
+
 <div align='center'>
    (صلِّ على سيدنا محمد) ﷺ
 </div>
+
+---
+
+### About Me
+
+I'm a full stack developer focused on building real-world applications using React, Node.js, Flask, and MongoDB.  
+Currently learning AI and data science through DEPI, and exploring machine learning through hands-on projects.  
+Always learning by doing. Interested in tech that solves real problems.
+
+---
+
+### 🔧 Tech Stack
+
+- **Languages**: JavaScript, Python, SQL, C++
+- **Frontend**: React.js, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js, Flask
+- **Databases**: MongoDB, MySQL, SQLite
+- **Tools**: Git, GitHub, VS Code, Render, Netlify
+
+---
+
+### 📌 Current Focus
+
+- Improving my backend and API design skills  
+- Learning deployment and scaling  
+- Exploring machine learning and AI projects  
+- Building a strong portfolio of real apps
+
+---
+
+### 📬 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/ahmed-abdullah-nassar)  
+- [Kaggle](https://www.kaggle.com/ahmedabdullahcreates)
+
+---
 
 ---
 <!-- 
