@@ -45,7 +45,7 @@ Always learning by doing. Interested in tech that solves real problems.
 ### Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/ahmed-abdullah-nassar)
-- [Gmail] (ahmed.abdullah.nassar@gmailc.om)
+- [Gmail](ahmed.abdullah.nassar@gmailc.om)
 
 ---
 
