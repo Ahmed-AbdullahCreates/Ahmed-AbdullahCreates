@@ -23,7 +23,7 @@ Always learning by doing. Interested in tech that solves real problems.
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 - **Languages**: JavaScript, Python, SQL, C++
 - **Frontend**: React.js, Tailwind CSS, Bootstrap
@@ -33,7 +33,7 @@ Always learning by doing. Interested in tech that solves real problems.
 
 ---
 
-### 📌 Current Focus
+### 📌Current Focus
 
 - Improving my backend and API design skills  
 - Learning deployment and scaling  
@@ -42,10 +42,10 @@ Always learning by doing. Interested in tech that solves real problems.
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/ahmed-abdullah-nassar)  
-- [Kaggle](https://www.kaggle.com/ahmedabdullahcreates)
+- [LinkedIn](https://linkedin.com/in/ahmed-abdullah-nassar)
+- [Gmail] (ahmed.abdullah.nassar@gmailc.om)
 
 ---
 
