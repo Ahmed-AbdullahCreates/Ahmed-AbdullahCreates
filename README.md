@@ -22,7 +22,7 @@
 
 I'm a full stack developer focused on building real-world applications using React, Node.js, Flask, and MongoDB.  
 Currently learning AI and data science through DEPI, and exploring machine learning through hands-on projects.  
-Always learning by doing. Interested in tech that solves real problems.
+Always learning by doing. So, I’m Ahmed, a software engineer who loves tackling real-world problems through code. I combine hands-on practice with a learning-first mindset from crafting intuitive UIs to architecting RESTful APIs, I build end-to-end solutions that matter. Outside of feature work, I explore data science and AI—learning by doing—so every project teaches me something new. Always up for collaboration, open source, or a good challenge.
 
 ---
 
