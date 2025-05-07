@@ -5,10 +5,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Learning+AI+and+ML;CS+Student+@+FCAI+Sadat+City;Learning+by+Building+Real+Projects;Always+Curious,+Always+Improving" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=F97316&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Learning+AI+and+ML;CS+Student+@+FCAI+Sadat+City;Learning+by+Building+Real+Projects;Always+Curious,+Always+Improving" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
-
 
 <div align='center'>
    (صلِّ على سيدنا محمد) ﷺ
