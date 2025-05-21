@@ -42,17 +42,14 @@ Always learning by doing. So, I’m Ahmed, a software engineer who loves tacklin
 - Learning deployment and scaling  
 - Exploring machine learning and AI projects  
 - Building a strong portfolio of real apps
-
+- How to reach me **ahmed.abdullah.nassar@gmail.com**
+  
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-abdullah-nassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iptihal-yousri-01b615206" height="30" width="40" /></a>
+</p>
 
-<p align="center">
-  <i>Let's connect!</i>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/ahmed-abdullah-nassar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-     <a href="ahmed.abdullah.nassar@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    
-  </p>
 
 
 <!-- 
