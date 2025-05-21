@@ -1,12 +1,12 @@
 
 <h1 align='center'>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><br>
+  Hi there, I'm Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><br>
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=850&color=F97316&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Learning+AI+and+ML;CS+Student+@+FCAI+Sadat+City-University;Learning+by+Building+Real+Projects;Always+Curious,+Always+Improving" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=850&color=F97316&center=true&vCenter=true&width=1000&lines=I'm+a+Full+Stack+Developer;Learning+AI+and+ML;CS+Student+@+FCAI+Sadat+City-University;Learning+by+Building+Real+Projects;Always+Curious,+Always+Improving" 
       alt="Typing SVG" 
     />
   </a>
@@ -32,7 +32,7 @@ Always learning by doing. So, I’m Ahmed, a software engineer who loves tacklin
 - **Frontend**: React.js, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js, Flask
 - **Databases**: MongoDB, MySQL, SQLite
-- **Tools**: Git, GitHub, VS Code, Render, Netlify
+- **Tools**: Git, GitHub, VS Code, Render, Netlify, vercel
 
 ---
 
@@ -45,11 +45,14 @@ Always learning by doing. So, I’m Ahmed, a software engineer who loves tacklin
 
 ---
 
-### Connect With Me
+<p align="center">
+  <i>Let's connect!</i>
 
-- [LinkedIn](https://linkedin.com/in/ahmed-abdullah-nassar)
-- [Gmail](ahmed.abdullah.nassar@gmailc.om)
-
+  <p align="center">
+    <a href="https://linkedin.com/in/ahmed-abdullah-nassar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+     <a href="ahmed.abdullah.nassar@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    
+  </p>
 ---
 
 ---
